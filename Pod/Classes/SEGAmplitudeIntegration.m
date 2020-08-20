@@ -1,5 +1,5 @@
 #import "SEGAmplitudeIntegration.h"
-#import <Analytics/Analytics.h>
+#import <Analytics/Analytics-umbrella.h>
 
 
 @implementation SEGAmplitudeIntegration

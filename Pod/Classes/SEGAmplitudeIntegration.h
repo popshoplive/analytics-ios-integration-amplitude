@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <Analytics/Analytics.h>
+#import <Analytics/Analytics-umbrella.h>
 
 #if defined(__has_include) && __has_include(<Amplitude_iOS/Amplitude.h>)
 #import <Amplitude_iOS/Amplitude.h>
