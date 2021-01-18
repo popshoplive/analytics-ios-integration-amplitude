@@ -3,7 +3,7 @@
 #if defined(__has_include) && __has_include(<Analytics/Analytics.h>)
 #import <Analytics/Analytics.h>
 #else
-#import <Segment/SEGAnalytics.h>
+#import <Analytics/SEGAnalytics.h>
 #endif
 
 #if defined(__has_include) && __has_include(<Amplitude_iOS/Amplitude.h>)
