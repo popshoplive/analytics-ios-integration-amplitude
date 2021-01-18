@@ -1,6 +1,19 @@
 Change Log
 ==========
 
+Version 3.2.3 *(29th October, 2020)
+-------------------------------------
+* Fix a bug with import headers support new namespacing introduced in v4.x
+
+Version 3.2.2 *(14th October, 2020)
+-------------------------------------
+* Update SEGAnalytics imports to support new namespacing introduced in v4.x
+
+Version 3.2.1 *(23rd September, 2020)
+-------------------------------------
+* Fixed compile issue w/ 7.0.1 build of Amplitude-iOS
+* Added mechanism to allow idfa and location services to be configured in Amplitude-iOS.
+
 Version 3.2.0 *(15th July, 2020)*
 ---------------------------------
 * Updated Carthage to use Analytics 4.0.x.
